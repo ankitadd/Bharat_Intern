@@ -1,2 +1,2 @@
 # Bharat_Intern
-Hello! I was selected for the virtual internship program offered by Bharat Intern as a "Web Developer Intern".
+Hello! I have been selected for the virtual internship program Bharat Intern offers as a "Web Developer Intern". I have completed the tasks and above is the code for it.
